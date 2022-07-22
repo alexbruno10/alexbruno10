@@ -44,7 +44,7 @@
 ![Firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
 ![FaunaDB](https://img.shields.io/badge/-FaunaDB-0D1117?style=for-the-badge&logo=fauna&labelColor=0D1117)&nbsp;
   
-### Studying in this moment:
+### Estudando no momento:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 
